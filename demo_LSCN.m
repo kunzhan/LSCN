@@ -3,13 +3,13 @@
 
 %   Reference:
 %   K. Zhan, J. Shi, J. Teng, Q. Li, M. Wang, F. Lu, 
-%   "Linking synaptic computation for image enhancement
+%   "Linking synaptic computation for image enhancement"
 %   Neurocomputing, 2017
 
 % close all;
 clear
 addpath(genpath(pwd));
-K = 2;
+K = 6;
 Contrast = ones(K,1);   Spatial_frequency = Contrast; 
     Gradient = Contrast;    JND = Contrast;
 for k = 1 : K
