@@ -8,7 +8,7 @@ function [lc, SF, MG] = QEvaluation(I)
 %   Reference:
 %   [1]. K Zhan, J Teng, J Shi, Q Li, M Wang, 
 %   "Feature-linking model for image enhancement," 
-%   Neural Computation, vol. 28, no. 5, pp. , 2016.
+%   Neural Computation, vol. 28, no. 6, pp. 1072--1100, 2016.
 %   [2]. De Vries F P P. 
 %   "Automatic, adaptive, brightness independent contrast enhancement,"
 %   Signal Processing, 21(2): 169-182, 1990
