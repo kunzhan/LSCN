@@ -11,7 +11,7 @@ function I1 = LSCN(Im)
     % initial threshold
     R = 1;
     M = imsmooth(S, R, 0.2);
-    E = 9.*(M-S).*(1-S);
+    E = 8.*(M-S).*(1-S);
     Emin = min(min(E));
     E = E - Emin + 1+ 2./255;
     %% network iteration
