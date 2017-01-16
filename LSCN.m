@@ -1,3 +1,9 @@
+
+%   Reference:
+%   K. Zhan, J. Shi, J. Teng, Q. Li, M. Wang, F. Lu, 
+%   "Linking synaptic computation for image enhancement"
+%   Neurocomputing, 2017
+
 function I1 = LSCN(Im)
     %% Linking Synaptic Computation Network
     Im = padarray(Im,[1 1],'symmetric');
