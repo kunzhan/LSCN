@@ -2,9 +2,9 @@
 %   $Revision: 1.0.0.0 $  $Date: 2014/12/20 $ 10:30:18 $
 
 %   Reference:
-%   K Zhan, J Teng, J Shi, Q Li, M Wang, 
-%   "Feature-linking model for image enhancement," 
-%   Neural Computation, vol. 28, no. 5, pp. , 2016.
+%   K. Zhan, J. Shi, J. Teng, Q. Li, M. Wang, F. Lu, 
+%   "Linking synaptic computation for image enhancement
+%   Neurocomputing, 2017
 
 % close all;
 clear
