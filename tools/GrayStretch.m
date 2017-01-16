@@ -8,6 +8,10 @@
 %   [2] K Zhan, J Teng, J Shi, Q Li, M Wang, 
 %   "Feature-linking model for image enhancement," 
 %   Neural Computation, vol. 28, no. 5, pp. , 2016.
+%   [3] K. Zhan, J. Shi, J. Teng, Q. Li, M. Wang, F. Lu, 
+%   "Linking synaptic computation for image enhancement"
+%   Neurocomputing, 2017
+
 function GS = GrayStretch(I,Per)
     [m,M] = FindingMm(I,Per);
     GS = uint8((double(I)-m)./(M-m)*255);
