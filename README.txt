@@ -3,7 +3,7 @@
 
 If you use these codes, please cite the following paper:
 @Article{NEUCOMLSCN2017,
-  author =  {{\bf K} {\bf Zhan} and Jinhui Shi and Jicai Teng and Qiaoqiao Li and Mingying Wang and Fuxiang Lu},
+  author =  {K. Zhan, J. Shi, J. Teng, Q. Li, M. Wang, F. Lu},
   title =   {Linking Synaptic Computation for Image Enhancement },
   journal = {Neurocomputing},
   year =    {2017},
